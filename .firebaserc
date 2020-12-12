@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "algularfire": {
+      "hosting": {
+        "rafa": [
+          "algularfire"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "algularfire"
+  }
+}
